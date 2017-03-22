@@ -13,7 +13,7 @@ This is a repository to practice using Git and GitHub.
 # Name and Team
 
   * Aishwarya
-  * Saranya
+  * Saranya Chidambaram
   * Nivedha
   * Harini
   * Gopi Vadalapti
