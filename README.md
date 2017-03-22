@@ -35,4 +35,4 @@ This is a repository to practice using Git and GitHub.
   * Vishwa Poojitha
   * Divakar
 
-  Team Name : Web and Mobility
+  Team Name : Web and Mobility.
