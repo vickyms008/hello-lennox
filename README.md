@@ -18,7 +18,7 @@ This is a repository to practice using Git and GitHub.
   * Harini
   * Gopi Vadalapti
   * Nicholas
-  * Vigneshwaran
+  * Vigneshwaran Mutharasan
   * Venkatesh
   * Rajesh
   * R. Ganesh kumar
