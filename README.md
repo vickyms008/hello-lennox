@@ -19,7 +19,7 @@ This is a repository to practice using Git and GitHub.
   * Gopi Vadalapti
   * Nicholas
   * Vigneshwaran
-  * Venkatesh
+  * Venkatesh T
   * Rajesh - god of kings
   * R. Ganesh kumar
   * M. Ganesh kumar  
