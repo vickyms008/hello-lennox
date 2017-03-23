@@ -20,7 +20,7 @@ This is a repository to practice using Git and GitHub.
   * Nicholas
   * Vigneshwaran
   * Venkatesh
-  * Rajesh
+  * Rajesh - god of kings
   * R. Ganesh kumar
   * M. Ganesh kumar  
   * Mani
