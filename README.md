@@ -16,7 +16,7 @@ This is a repository to practice using Git and GitHub.
   * Saranya Chidambaram
   * Nivedha
   * Harini
-  * Gopi Vadalapti
+  * Gopi Vadalapti: it is Vadlapati not vadalapti
   * Nicholas from Web team
   * Vigneshwaran
   * Venkatesh T
