@@ -17,7 +17,7 @@ This is a repository to practice using Git and GitHub.
   * Nivedha
   * Harini
   * Gopi Vadalapti
-  * Nicholas
+  * Nicholas from Web team
   * Vigneshwaran
   * Venkatesh T
   * Rajesh - god of kings
